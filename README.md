@@ -1,4 +1,4 @@
-# BikeTurner - Turn signals meet bikes.
+# 🚦🚲 BikeTurner - Turn signals meet bikes. 🚲🚦
 
 A novel Arduino Nano product prototype using a 3d printer and laser cutter.
 
@@ -64,7 +64,7 @@ int HoldGap = 500;        //Time the user holds the button before it
 
 ### Manufacture
 
-The prototype 3d model is designed from our sketches in Autocad. You can create your own or or simply upload the stl files to a 3d printer and adjust extrude settings until the print quality is satisfactory **Note:** Extrude settings vary between printers so you should adjust until the print is even.
+The prototype 3d model is designed from our sketches in Autocad. You can create your own or or simply upload <a href="./3dmodel.stl">the stl files</a> to a 3d printer and adjust extrude settings until the print quality is satisfactory **Note:** Extrude settings vary between printers so you should adjust until the print is even.
 
 To create the control grip, use a felt material and a standard push button. Attach the push button between two felt materials using a sewing machine.
 
@@ -73,7 +73,9 @@ To create the control grip, use a felt material and a standard push button. Atta
   <img width="350"  src="./ControlGrip.png">
 </p>
 
-To create the back mirror of the light, use an aluminium sheet cut to size using a laser cutter. Our designs were created using Adobe Illustrator and adjusted iteratively first on cardboard, and then on the material.
+To create the back mirror of the light, use an aluminium sheet cut to size using a laser cutter. Our designs were created using Adobe Illustrator and adjusted iteratively first on cardboard, and then on the material. You can download our files for the laser cutter here:
+*  <a href="./LaserCutterFront.ai"> Front panel</a>
+*  <a href="./LaserCutterBack.ai"> Back panel</a>
 
 ### Assembly.
 
